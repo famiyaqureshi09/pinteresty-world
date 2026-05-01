@@ -1,0 +1,21 @@
+CSS
+
+
+body {
+  background-color: #fef6f9;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1):
+}

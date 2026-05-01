@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Pinteresty World</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+ <h1>  Pinteresty World  </h1>
+
+ <div class="quotes">She was poetry, but he could'nt read
+ </div>
+ <div class="quotes">Lost in her own little universe
+ </div>
+ <div class="quotes">Soft heart win always </div>
+
+</body>
+</html>
